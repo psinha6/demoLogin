@@ -1,0 +1,21 @@
+{
+  "name": "logindemo",
+  "version": "1.0.0",
+  "description": "Gives a login demo ",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "cookie-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "express-session": "~1.0.2",
+    "moment": "^2.17.1",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
